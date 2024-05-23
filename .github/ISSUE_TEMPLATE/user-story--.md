@@ -7,4 +7,17 @@ assignees: ''
 
 ---
 
-As a **role**, I can **function**, so that **result**.
+### Description
+As a role, I can function, so that result.
+
+
+
+### Acceptance Criteria
+- [x] This is a test
+- [ ] This is another test
+
+
+
+### Tasks
+- [x] This is a test
+- [ ] This is another test
