@@ -7,17 +7,18 @@ assignees: ''
 
 ---
 
-### Description
+### Description:
 As a role, I can function, so that result.
 
 
-
-### Acceptance Criteria
+### Acceptance Criteria:
 - [x] This is a test
 - [ ] This is another test
 
 
-
-### Tasks
+### Tasks:
 - [x] This is a test
 - [ ] This is another test
+
+
+### Story Points:
